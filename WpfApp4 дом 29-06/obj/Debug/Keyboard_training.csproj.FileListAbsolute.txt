@@ -1,0 +1,16 @@
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\bin\Debug\Keyboard training.exe.config
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\bin\Debug\Keyboard training.exe
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\bin\Debug\Keyboard training.pdb
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\Keyboard_training.csproj.AssemblyReference.cache
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\Keyboard_training.csproj.SuggestedBindingRedirects.cache
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\MainWindow.g.cs
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\App.g.cs
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\Keyboard training_MarkupCompile.cache
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\Keyboard training_MarkupCompile.lref
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\MainWindow.baml
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\Keyboard training.g.resources
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\Keyboard_training.Properties.Resources.resources
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\Keyboard_training.csproj.GenerateResource.cache
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\Keyboard_training.csproj.CoreCompileInputs.cache
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\Keyboard training.exe
+D:\NINA\GitHub\Keyboard training\WpfApp4 дом 29-06\obj\Debug\Keyboard training.pdb
